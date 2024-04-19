@@ -1,1 +1,2 @@
-http://localhost:3000/en
+https://elice.io/ko
+https://elice.io/ko/elice/about
